@@ -3,6 +3,8 @@
 #include <dbus/dbus.h>
 #include "Message.h"
 
+#include <stdint.h>
+
 namespace SimpleDBus {
 
 class Message;
